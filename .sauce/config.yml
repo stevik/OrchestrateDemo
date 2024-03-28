@@ -12,4 +12,4 @@ suites:
       user: andrejstevik
       token: <token>
     workload: webdriver
-    entrypoint: 'pytest test/mytest.py'
+    entrypoint: 'pytest test/my_test.py'
